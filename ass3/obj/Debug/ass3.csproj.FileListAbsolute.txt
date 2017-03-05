@@ -1,0 +1,13 @@
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\bin\Debug\ass3.exe.config
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\bin\Debug\ass3.exe
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\bin\Debug\ass3.pdb
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.csprojResolveAssemblyReference.cache
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.Properties.Resources.resources
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.SplashForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.csproj.GenerateResource.Cache
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.exe
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.pdb
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.OrderForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.SelectionForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.StreamForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\ass3\ass3\ass3\obj\Debug\ass3.AboutBox1.resources
